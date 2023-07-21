@@ -1,1 +1,10 @@
-{ "data": [ { "id": "0a6e9c9c-c3ef-42c5-8961-426eb89db755", "code": "LBG", "name": "Lebak Bulus Grab", "createdAt": "2023-07-17T18:17:05.210Z", "updatedAt": "2023-07-17T18:17:05.210Z", "device": [ { "id": "801d83cd-8da1-48a3-9ae5-305325d29c5b", "hwid": "B92569C0-CD75-4125-95E2-EC2CFB45BF48", "status": 1, "stationId": "0a6e9c9c-c3ef-42c5-8961-426eb89db755", "gate": "GATE 1", "code": "LB-G1", "createdAt": "2023-07-18T08:16:28.925Z", "updatedAt": "2023-07-18T08:16:28.925Z" } ] }, { "id": "53f21178-a3f5-4ca8-b331-fa328f9de889", "code": "FI", "name": "Fatmawati Indomaret", "createdAt": "2023-07-17T18:17:38.206Z", "updatedAt": "2023-07-17T18:17:38.206Z", "device": [ { "id": "60e3abb1-fde5-4c33-a07c-2811f48d9a51", "hwid": "91E40109-2D1A-4A94-9834-32492A4F0819", "status": 1, "stationId": "53f21178-a3f5-4ca8-b331-fa328f9de889", "gate": "GATE 1", "code": "FI-G1", "createdAt": "2023-07-18T08:53:01.772Z", "updatedAt": "2023-07-18T08:53:01.773Z" } ] } ] }
+{
+  "B92569C0-CD75-4125-95E2-EC2CFB45BF48": {
+    "station": "LBG",
+    "gate": 1
+  },
+  "91E40109-2D1A-4A94-9834-32492A4F0819": {
+    "station": "FWI",
+    "gate": 1
+  }
+}
